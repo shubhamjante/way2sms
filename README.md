@@ -5,6 +5,7 @@ This is Unofficial API.
 
 
 ## Getting Started
+Import this file into your current project. Refer the following statements to understand how to use it.
 To Login:
 ```
 sms = way2sms_login(username, password)
@@ -19,3 +20,6 @@ To logout:
 ```
 sms.way2sms_logout()
 ```
+
+## Authors
+*** Shubham Jante: ** (https://github.com/shubhamjante
