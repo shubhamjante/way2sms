@@ -5,7 +5,7 @@ This is Unofficial API.
 
 
 ## Getting Started
-Import this file into your current project. Refer the following statements to understand how to use it.
+Import this file into your current project. Refer the following statements to understand how to use it.<br>
 To Login:
 ```
 sms = way2sms_login(username, password)
