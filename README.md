@@ -22,4 +22,4 @@ sms.way2sms_logout()
 ```
 
 ## Authors
-*** Shubham Jante: ** (https://github.com/shubhamjante
+*** Shubham Jante: *** (https://github.com/shubhamjante)
